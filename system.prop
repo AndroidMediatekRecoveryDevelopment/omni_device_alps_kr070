@@ -1,0 +1,16 @@
+#
+# system.prop for kr070
+#
+
+ro.product.model=kr070
+ro.product.brand=alps
+ro.product.name=kr070
+ro.product.device=kr070
+ro.product.board=kr070
+ro.product.custname=alps kr070
+ro.product.manufacturer=alps
+
+
+#ro.board.platform=mt8127
+#persist.sys.timezone=Europe/Paris
+
